@@ -4,25 +4,6 @@ This project focuses on predicting various load statuses in an integrated energy
 
 ---
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-  - [Objectives](#objectives)
-- [Data Sources](#data-sources)
-- [Methodology](#methodology)
-  - [Data Processing](#data-processing)
-  - [Models Compared](#models-compared)
-- [Key Findings](#key-findings)
-  - [Correlation Analysis](#correlation-analysis)
-  - [Model Performance Comparison](#model-performance-comparison)
-- [Conclusion](#conclusion)
-- [Recommendations](#recommendations)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## Project Overview
 
 ### Objectives
